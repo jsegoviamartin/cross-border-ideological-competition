@@ -333,11 +333,4 @@ fig.legend(handles, labels, loc='lower center', ncol=2)
 plt.show()
 fig.set_size_inches(7, 6)
 fig.subplots_adjust(bottom=0.2)
-fig.savefig('3dPlot.pdf')
-
-
-
-#REAL DATA USA.
-#FOR GAMMA WE CAN USE TURNOUT AS AN APPPROXIMATION TO REPRESENT SLIGHTLY INCREASING OF DIFFERENCE BETWEEN LEAKAGE AND RECRUITMENT
-#https://en.wikipedia.org/wiki/Voter_turnout_in_United_States_presidential_elections#cite_note-3
-#FOR RECRUITMENT FROM ONE PARTY TO ANOTHER WE CAN USE THIS STUDY: https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/screen-shot-2020-08-04-at-9-21-37-am/
+fig.savefig('Plot.pdf')
