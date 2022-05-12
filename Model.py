@@ -38,13 +38,13 @@ class VBC:
         self.k3 = k3
         #average number of contacts per time per capita of party E (e.g. party C reaches 30% of the population, 0.3)
         self.k4 = k4
-        #probability of convincement of party B (between 0.0-1.0)
+        #probability of B convincing another agent per contact (between 0.0-1.0)
         self.p1 = p1
-        #probability of convincement of party C (between 0.0-1.0)
+        #probability of C convincing another agent per contact(between 0.0-1.0)
         self.p2 = p2
-        # probability of convincement of party D (between 0.0-1.0)
+        #probability of D convincing another agent per contact (between 0.0-1.0)
         self.p3 = p3
-        # probability of convincement of party E (between 0.0-1.0)
+        #probability of E convincing another agent per contact (between 0.0-1.0)
         self.p4 = p4
         #per capita leakage of agents from party B (between 0.0-1.0)
         self.gamma1 = gamma1
@@ -333,4 +333,11 @@ fig.legend(handles, labels, loc='lower center', ncol=2)
 plt.show()
 fig.set_size_inches(7, 6)
 fig.subplots_adjust(bottom=0.2)
-fig.savefig('Plot.pdf')
+fig.savefig('3dPlot.pdf')
+
+
+
+#REAL DATA USA.
+#FOR GAMMA WE CAN USE TURNOUT AS AN APPPROXIMATION TO REPRESENT SLIGHTLY INCREASING OF DIFFERENCE BETWEEN LEAKAGE AND RECRUITMENT
+#https://en.wikipedia.org/wiki/Voter_turnout_in_United_States_presidential_elections#cite_note-3
+#FOR RECRUITMENT FROM ONE PARTY TO ANOTHER WE CAN USE THIS STUDY: https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/screen-shot-2020-08-04-at-9-21-37-am/
