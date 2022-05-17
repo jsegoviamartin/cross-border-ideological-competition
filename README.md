@@ -37,4 +37,3 @@ Bib TeX of the preprint
   journal={arXiv preprint arXiv:2205.06010},
   year={2022}
 }
-´´´
