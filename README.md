@@ -1,5 +1,7 @@
 # Modelling the dynamics of cross-border ideological competition
-Mathematical model for the cross-border spread of two ideologies by using an epidemiological approach. 
+Mathematical model for the cross-border spread of two ideologies by using an epidemiological approach, as described in:
+Segovia-Martin, J. (2022). Modelling the dynamics of cross-border ideological competition. arXiv preprint arXiv:2205.06010.
+arXiv preprint: https://arxiv.org/abs/2205.06010
 
 The ODEsolver.py module contains a number of classes that implement numerical methods for solving ordinary differential equations. This module borrows heavily from the work of Joakim Sundnes, 
 https://github.com/sundnes/solving_odes_in_python
@@ -25,3 +27,14 @@ model = VBC(mu1=0.016, mu2=0.016, mu3=0.016, mu4=0.016,
             gamma1= 0.01, gamma2= 0.01, gamma3=0.01, gamma4=0.01,
             phi1= 0.02, phi2= 0.02, phi3=0.02, phi4=0.02)
 ```
+
+Export citation:
+Bib TeX of the preprint
+```
+@article{segovia2022modelling,
+  title={Modelling the dynamics of cross-border ideological competition},
+  author={Segovia-Martin, Jose},
+  journal={arXiv preprint arXiv:2205.06010},
+  year={2022}
+}
+´´´
