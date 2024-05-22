@@ -1,15 +1,48 @@
+# """
+# Copyright 2024 Jose Segovia-Martin
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+# For any use of this software, proper citation must be given to the creator,
+# Jose Segovia-Martin, acknowledging the original source.
+# """
+
+# Cross-border influence model: 2-country with 2-party system model of political competition.
+
+# The model we present here idealises ideologies as fixed and as competing with each other for supporters both
+# within and across borders.
+# Agents can only support one ideology (party or political tendency) at any given moment in time.
+# Stochastic differential process for each political affiliation and fit model solutions to population growth rates
+# and voting populations in US presidential elections from 1932 to 2020.
+# we assume the chance of an agent of coming  into contact with a party n of another
+# country is given by the proportion of voters of party n in such other country. Stronger ideologies
+# or parties within a country are also better able to export their ideas than minority parties.
+
+
+
 from ODESolver import RungeKutta4
 import numpy as np
 import matplotlib.pyplot as plt
 from collections import OrderedDict
 
 
-#Cross-border influence model: 2-country with 2-party system model of political influence.
-
-# Here we assume the chance of an agent of coming  into contact with a party n of another
-# country is given by the proportion of voters of party n in such other country. Stronger ideologies
-# or parties within a country are also better able to export their ideas than minority parties.
-
+# Deterministic model (2 countries): Parameters and governing equations
 
 class VBC:
     def __init__(self, mu1, mu2, mu3, mu4, muB, muC, muD, muE, k1, k2, k3, k4,
