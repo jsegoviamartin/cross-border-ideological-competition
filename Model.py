@@ -28,11 +28,8 @@
 # The model we present here idealises ideologies as fixed and as competing with each other for supporters both
 # within and across borders.
 # Agents can only support one ideology (party or political tendency) at any given moment in time.
-# Stochastic differential process for each political affiliation and fit model solutions to population growth rates
-# and voting populations in US presidential elections from 1932 to 2020.
-# we assume the chance of an agent of coming  into contact with a party n of another
-# country is given by the proportion of voters of party n in such other country. Stronger ideologies
-# or parties within a country are also better able to export their ideas than minority parties.
+
+# Deterministic version.
 
 
 
