@@ -365,9 +365,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -431,9 +431,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -494,9 +494,9 @@ C0 = 19291265
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -560,9 +560,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -626,9 +626,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -687,9 +687,9 @@ C0 = 19291265
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -751,9 +751,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -819,9 +819,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -880,9 +880,9 @@ C0 = 19291265
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -944,9 +944,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -1013,9 +1013,9 @@ C0 = 16000000
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
@@ -1076,9 +1076,9 @@ C0 = 19291265
 #Initial conditions country 2 # At t0 = 1932, for agents outside the U.S., it is assumed that
 #political tendencies are evenly split at the start of the simulation, with one-third non-partisan, one-third
 # pro-Democrats, and one-third pro-Republicans.
-V20 = 500000000
-D0 = 500000000
-E0 = 500000000
+V20 = 50000000
+D0 = 50000000
+E0 = 50000000
 model = VBC(r1=0.02,r2=0.02,
             mu1=0.017, mu2=0.017, mu3=0.017, mu4=0.017,
             muB= 0.017, muC= 0.017, muD=0.017, muE=0.017,
