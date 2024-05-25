@@ -9,7 +9,7 @@ https://github.com/sundnes/solving_odes_in_python
 
 Three alternative implementations for the RungeKutta4 class in RungeKutta4_List_Comprehensions.py, RungeKutta4_Vectorized_Approach.py and RungeKutta4_explicit_handling.py.
 
-The Model.py file contains the epidemiological implementation of cross-border ideological competition. The model is implemented as a class and solved numerically by the Runge-Kutta method. Running the script yields results from four simulations.
+The Model.py file contains the non-lineal implementation of cross-border ideological competition. The model is implemented as a class and solved numerically by the Runge-Kutta method. Running the script yields results from four simulations.
 
 Model parameters can be manipulated for each simulation in the corresponding section. For example, for the first simulation we have:
 ```
