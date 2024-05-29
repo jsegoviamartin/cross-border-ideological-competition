@@ -6,7 +6,7 @@ arXiv preprint: https://arxiv.org/abs/2205.06010
 
 ## Citation
 If you use this model in your work, please cite the following:
-Export citation:
+
 Bib TeX of the preprint
 ```
 @article{segovia2022modelling,
