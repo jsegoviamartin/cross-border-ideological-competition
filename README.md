@@ -11,7 +11,22 @@ Three alternative implementations for the RungeKutta4 class in RungeKutta4_List_
 
 The Model.py file contains the non-lineal implementation of cross-border ideological competition. The model is implemented as a class and solved numerically by the Runge-Kutta method. Running the script yields results from four simulations.
 
-Model parameters can be manipulated for each simulation in the corresponding section. For example, for the first simulation we have:
+## Requirements
+
+Make sure you have the following Python packages installed:
+- numpy
+- matplotlib
+
+You can install them using pip:
+```bash
+pip install numpy matplotlib
+```
+## Running Simulations from an IDE using Model.py
+
+1. Open the Model.py script in your preferred IDE (e.g., PyCharm, VSCode).
+
+2. Modify the initial conditions and parameters directly in the script as needed. Model parameters can be manipulated for each simulation in the corresponding section. Here is a sample configuration:
+   
 ```
 # First simulation
 #Initial conditions country 1
