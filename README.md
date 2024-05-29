@@ -2,9 +2,11 @@
 Mathematical model for the cross-border spread of two ideologies, as described in:
 
 * Research article (open access):
+  
 Segovia-Martin J, Rivero Ó (2024) Cross-border political competition. PLoS ONE 19(5): e0297731. https://doi.org/10.1371/journal.pone.0297731
 
 * Preprint:
+  
 Segovia-Martin, J. (2022). Modelling the dynamics of cross-border ideological competition. arXiv preprint arXiv:2205.06010.
 arXiv preprint: https://arxiv.org/abs/2205.06010
 
