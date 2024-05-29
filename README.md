@@ -1,5 +1,5 @@
 # Modelling the dynamics of cross-border ideological competition
-Mathematical model for the cross-border spread of two ideologies by using an epidemiological approach, as described in:
+Mathematical model for the cross-border spread of two ideologies, as described in:
 
 Segovia-Martin, J. (2022). Modelling the dynamics of cross-border ideological competition. arXiv preprint arXiv:2205.06010.
 arXiv preprint: https://arxiv.org/abs/2205.06010
