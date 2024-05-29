@@ -13,7 +13,7 @@ arXiv preprint: https://arxiv.org/abs/2205.06010
 ## Citation
 If you use this work, please cite the following:
 
-Bib TeX of the preprint
+BibTeX (compatible with BibDesk, LaTeX)
 ```
 @article{10.1371/journal.pone.0297731,
     doi = {10.1371/journal.pone.0297731},
