@@ -1,6 +1,10 @@
 # Modelling the dynamics of cross-border ideological competition
 Mathematical model for the cross-border spread of two ideologies, as described in:
 
+Research article (open access):
+Segovia-Martin J, Rivero Ó (2024) Cross-border political competition. PLoS ONE 19(5): e0297731. https://doi.org/10.1371/journal.pone.0297731
+
+Preprint:
 Segovia-Martin, J. (2022). Modelling the dynamics of cross-border ideological competition. arXiv preprint arXiv:2205.06010.
 arXiv preprint: https://arxiv.org/abs/2205.06010
 
@@ -9,11 +13,20 @@ If you use this model in your work, please cite the following:
 
 Bib TeX of the preprint
 ```
-@article{segovia2022modelling,
-  title={Modelling the dynamics of cross-border ideological competition},
-  author={Segovia-Martin, Jose},
-  journal={arXiv preprint arXiv:2205.06010},
-  year={2022}
+@article{10.1371/journal.pone.0297731,
+    doi = {10.1371/journal.pone.0297731},
+    author = {Segovia-Martin, Jose AND Rivero, Óscar},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Cross-border political competition},
+    year = {2024},
+    month = {05},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0297731},
+    pages = {1-26},
+    abstract = {Individuals are increasingly exposed to news and opinion from beyond national borders. This news and opinion are often concentrated in clusters of ideological homophily, such as political parties, factions, or interest groups. But how does exposure to cross-border information affect the diffusion of ideas across national and ideological borders? Here, we develop a non-linear mathematical model for the cross-border spread of two ideologies. First, we describe the standard deterministic model where the populations of each country are assumed to be constant and homogeneously mixed. We solve the system of differential equations numerically by the Runge-Kutta method and show how small changes in the influence of a minority ideology can trigger shifts in the global political equilibrium. Second, we simulate recruitment as a stochastic differential process for each political affiliation and fit model solutions to population growth rates and voting populations in US presidential elections from 1932 to 2020. We also project the dynamics of several possible scenarios from 2020 to the end of the century. We show that cross-border influence plays a fundamental role in determining election outcomes. An increase in foreign support for a national party’s ideas could change the election outcome, independent of domestic recruitment capacity. One key finding of our study suggests that voter turnout in the US will grow at a faster rate than non-voters in the coming decades. This trend is attributed to the enhanced recruitment capabilities of both major parties among non-partisans over time, making political disaffection less prominent. This phenomenon holds true across all simulated scenarios.},
+    number = {5},
+
 }
 ```
 ## Scripts
