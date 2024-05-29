@@ -11,7 +11,7 @@ Segovia-Martin, J. (2022). Modelling the dynamics of cross-border ideological co
 arXiv preprint: https://arxiv.org/abs/2205.06010
 
 ## Citation
-If you use this model in your work, please cite the following:
+If you use this work, please cite the following:
 
 Bib TeX of the preprint
 ```
